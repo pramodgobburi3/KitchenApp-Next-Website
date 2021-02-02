@@ -1,0 +1,32 @@
+{
+  "name": "with-aphrodite",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.3.3",
+    "@zeit/next-css": "^1.0.1",
+    "antd": "^4.8.6",
+    "aphrodite": "^2.3.1",
+    "axios": "^0.21.0",
+    "bootstrap": "^4.5.3",
+    "graphql": "^15.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "next": "latest",
+    "nprogress": "^0.2.0",
+    "react": "^16.7.0",
+    "react-beautiful-dnd": "^13.0.0",
+    "react-dom": "^16.7.0",
+    "react-icons": "^4.1.0",
+    "react-lottie": "^1.2.3",
+    "reactstrap": "^8.7.1",
+    "styled-components": "^5.2.1",
+    "styled-jsx": "^3.3.2"
+  },
+  "author": "",
+  "license": "MIT"
+}

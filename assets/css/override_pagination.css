@@ -1,0 +1,33 @@
+.ant-pagination-item-active {
+  border-color: red !important;
+}
+
+.ant-pagination-item-active:focus a,
+.ant-pagination-item-active:hover a {
+  color: #F43445 !important;
+}
+
+.ant-pagination-item:focus,
+.ant-pagination-item:hover {
+  border-color: #F43445 !important;
+}
+
+.ant-pagination-prev .ant-pagination-item-link,
+.ant-pagination-next .ant-pagination-item-link {
+  outline: #F43445 !important;
+}
+
+.ant-pagination-prev:hover button,
+.ant-pagination-next:hover button {
+  border-color: #F43445 !important;
+}
+.ant-pagination-item-container .ant-pagination-item-link-icon {
+  color: red !important;
+}
+.ant-pagination-prev:focus .ant-pagination-item-link,
+.ant-pagination-next:focus .ant-pagination-item-link,
+.ant-pagination-prev:hover .ant-pagination-item-link,
+.ant-pagination-next:hover .ant-pagination-item-link {
+  color: #F43445 !important;
+  border-color: #F43445 !important;
+}

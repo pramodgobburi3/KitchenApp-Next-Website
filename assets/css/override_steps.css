@@ -1,0 +1,21 @@
+.ant-steps-item-process > .ant-steps-item-container > .ant-steps-item-icon {
+  background: transparent !important;
+  border-color: #F43445 !important;
+}
+
+.ant-steps-item-container {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.ant-steps-icon {
+  color: #F43445 !important;
+}
+
+.ant-steps-vertical > .ant-steps-item > .ant-steps-item-container > .ant-steps-item-tail {
+  top: 5px !important;
+}
+
+.ant-menu-horizontal {
+  border-bottom: none !important;
+}

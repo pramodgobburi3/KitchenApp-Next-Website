@@ -1,0 +1,9 @@
+export const API_USERS_ENDPOINT = "http://localhost:8001";
+export const API_RECIPES_ENDPOINT = "http://localhost:8000";
+export const LOGIN_URL = API_USERS_ENDPOINT + '/auth/login';
+export const REGISTER_URL = API_USERS_ENDPOINT + '/auth/register';
+export const REFRESH_TOKEN_URL = API_USERS_ENDPOINT + '/auth/token/refresh';
+export const CLIENT_AUTH_URL = API_USERS_ENDPOINT + '/auth/client';
+export const MEAL_URL = API_RECIPES_ENDPOINT + '/meals'
+export const GROCERY_LIST_URL = API_RECIPES_ENDPOINT + '/lists';
+export const LIST_ITEMS_URL = '/items';
